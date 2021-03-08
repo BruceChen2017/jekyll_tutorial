@@ -4,6 +4,8 @@ plugins:
 - jekyll-seo-tag
 
 
+baseurl: "/jekyll_tutorial" 
+
 collections:
   authors:
     output: true
