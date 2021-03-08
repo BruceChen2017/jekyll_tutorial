@@ -1,9 +1,9 @@
 ---
 author: ted
-usemathjax: true
+usemath: katex
 ---
 
-## Use mathjax  
+## Use mathjax or katex  
 
 $X$ is random variable which follows $N(\mu,\sigma^2)$.  
 
